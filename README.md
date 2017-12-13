@@ -1,5 +1,11 @@
 # zabbix-api
-zabbix-api for java
+zabbix-api for java, based on https://github.com/hengyunabc/zabbix-api
+
+----
+
+php version tested with Zabbix [2.2...3.2]
+
+----
 
 https://www.zabbix.com/wiki/doc/api
 
