@@ -3,7 +3,9 @@ zabbix-api for java, based on https://github.com/hengyunabc/zabbix-api
 
 ----
 
-php version tested with Zabbix [2.2...3.2]
+php version - (C) confirm IT solutions GmbH, Rathausstrase 14, CH-6340 Baar
+
+Fixed to work with Zabbix [2.2...3.2]
 
 ----
 
