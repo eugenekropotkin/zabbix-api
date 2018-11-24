@@ -19,12 +19,12 @@ public class ZTest
 			zabbixApi.auth(pwd.uname, pwd.pwd);
 
 			// create class
-			ZabbixApiR za = new ZabbixApiR(zabbixApi);
+			ZabbixApiR zbx = new ZabbixApiR(zabbixApi);
 			
 			// example: search for all {Hosts Groups} in zabbix
 			System.out.println("GroupName;GroupID;");
 			System.out.println("---");
-			for (String name : za.getHostGroup("name")) 
+			for (String name : zbx.getHostGroup("name")) 
 			{
 				System.out.println(name);
 			}
