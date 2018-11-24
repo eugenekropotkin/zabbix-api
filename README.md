@@ -8,7 +8,7 @@ php version
 
 ----
 
-Java version:
+Java version: full Eclipse project, works fine
 
    based on https://github.com/hengyunabc/zabbix-api
 
